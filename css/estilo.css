@@ -165,7 +165,7 @@ body#pagina7 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_38.jpeg");
    background-repeat: no-repeat; 
-  background-size:cover;  
+  background-size:auto;  
   background-position: center;
   background-color: black;
   width: 100vw;
@@ -176,7 +176,6 @@ body#pagina7 {
 body#pagina8 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_40.jpg");
-                      rotate: 90deg;
   background-repeat: no-repeat; 
   background-size:cover;  
   background-position: center;
