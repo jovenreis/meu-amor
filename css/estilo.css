@@ -84,9 +84,11 @@ body#home {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_6.jpg");
   background-repeat: no-repeat; 
-  background-size:auto;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
   
 }
 a{
@@ -96,27 +98,34 @@ body#pagina1 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_13.jpeg");
   background-repeat: no-repeat; 
-  background-size: auto;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
   
 }
 
 body#pagina2 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_11.jpeg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 body#pagina3 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_18.jpg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
 }
 
 body#pagina4 {
@@ -131,8 +140,11 @@ body#pagina5 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_28.jpeg");
   background-repeat: no-repeat; 
-  background-size: cover;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
@@ -140,17 +152,22 @@ body#pagina6 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_32.jpeg");
   background-repeat: no-repeat; 
-  background-size: auto;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
 }
 
 body#pagina7 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_38.jpeg");
-  background-repeat: no-repeat; 
-  background-size: auto;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
@@ -158,53 +175,69 @@ body#pagina8 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_40.jpg");
   background-repeat: no-repeat; 
-  background-size: cover;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
 }
 
 body#pagina9 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_48.jpg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
 body#pagina10 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_53.jpg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
 body#pagina11 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_58.jpeg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
 }
 
 body#pagina12 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_63.jpeg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
 body#pagina13 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_63.jpeg");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+   background-repeat: no-repeat; 
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
@@ -212,17 +245,22 @@ body#pagina14 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_71.jpg");
   background-repeat: no-repeat; 
-  background-size: cover;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
-
+  width: 100vw;
+  height: 100%vh;
 }
 
 body#pagina15 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_71.jpg");
   background-repeat: no-repeat; 
-  background-size: cover;       
+  background-size:cover;  
+  background-positions: center;
   background-color: black;
+  width: 100vw;
+  height: 100%vh;
 
 }
 
@@ -241,3 +279,4 @@ body#pagina15 {
     opacity: 1;   /* totalmente visível */
   }
 }
+
