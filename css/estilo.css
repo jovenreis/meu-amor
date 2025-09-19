@@ -108,13 +108,13 @@ body#pagina1 {
 
 body#pagina2 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_10.jpeg");
+                    url("../img/foto_10.jpg");
    background-repeat: no-repeat; 
-  background-size:auto;  
+  background-size:cover;  
   background-position: center;
   background-color: black;
   width: 100vw;
-  height: 100%vh;
+  height: 100%;
 
 }
 body#pagina3 {
@@ -132,8 +132,10 @@ body#pagina4 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_23.jpg");
   background-repeat: no-repeat; 
-  background-size: auto;       
+  background-size: cover;       
   background-color: black;
+   width: 100vw;
+  height: 100%;
 
 }
 body#pagina5 {
@@ -144,7 +146,7 @@ body#pagina5 {
   background-position: center;
   background-color: black;
   width: 100vw;
-  height: 100%vh;
+  height: 100%;
 
 }
 
@@ -178,6 +180,7 @@ body#pagina8 {
   background-size:cover;  
   background-position: center;
   background-color: black;
+  rotate: 90deg;
   width: 100vw;
   height: 100%vh;
 }
@@ -196,7 +199,7 @@ body#pagina9 {
 
 body#pagina10 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_53.jpg");
+                    url("../img/foto_49.jpg");
    background-repeat: no-repeat; 
   background-size:cover;  
   background-position: center;
