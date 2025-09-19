@@ -9,8 +9,8 @@ body {
 
 }
 .baixo{
-    width: 10cm;
-    height: 10cm;
+    width: 15cm;
+    height: 15cm;
     bottom:0;
     left:620px;
     display: flex;
@@ -22,8 +22,8 @@ body {
 .direita{
   right:0;
     top: 310px;
-    width: 10cm;
-    height: 10cm;
+    width: 15cm;
+    height: 15cm;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -34,8 +34,8 @@ body {
 
     top:150px;
     left: 0;
-    width: 10cm;
-    height: 10cm;
+    width: 15cm;
+    height: 15cm;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -44,8 +44,8 @@ body {
 .cima{
     left:620px;
     top :0.5cm;
-    width: 10cm;
-    height: 10cm;
+    width: 15cm;
+    height: 15cm;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -74,7 +74,7 @@ body {
 h1 {
     color: #ffffff;
     text-align: bottom;
-    top: 10cm;
+    top: 15cm;
 }
 
 p {
