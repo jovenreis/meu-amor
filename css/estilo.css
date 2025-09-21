@@ -10,7 +10,7 @@ body {
 }
 
 #parabens{
-  font-size: 80vw; ;
+  font-size: 24px; ;
 }
 .baixo{
     width: 15cm;
@@ -266,6 +266,7 @@ body#pagina15 {
     opacity: 1;   /* totalmente visível */
   }
 }
+
 
 
 
