@@ -4,17 +4,13 @@ body {
     color: #f7f7f7; 
     display: grid;
   place-items: center;
-  height: 100;
+  height: 100vh;
   margin: 0;
 
 }
-
-#parabens{
-  font-size: 24px; ;
-}
 .baixo{
-    width: 15cm;
-    height: 15cm;
+    width:400px;
+    height:300px;
     bottom:0;
     left:620px;
     display: flex;
@@ -26,8 +22,8 @@ body {
 .direita{
   right:0;
     top: 310px;
-    width: 15cm;
-    height: 15cm;
+    width: 300px;
+    height: 300px;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -38,8 +34,8 @@ body {
 
     top:150px;
     left: 0;
-    width: 15cm;
-    height: 15cm;
+    width: 400px;
+    height: 400px;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -48,8 +44,8 @@ body {
 .cima{
     left:620px;
     top :0.5cm;
-    width: 15cm;
-    height: 15cm;
+    width: 10cm;
+    height: 250px;
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -78,7 +74,7 @@ body {
 h1 {
     color: #ffffff;
     text-align: bottom;
-    top: 15cm;
+    top: 300px;
 }
 
 p {
@@ -88,10 +84,9 @@ body#home {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_6.jpg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size:auto;       
   background-color: black;
-  height: 100vh;
+
   
 }
 a{
@@ -101,31 +96,27 @@ body#pagina1 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_13.jpeg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: auto;       
   background-color: black;
-  height: 100vh;
+
   
 }
 
 body#pagina2 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_11.jpeg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
 
 }
 body#pagina3 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_14.jpg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+                    url("../img/foto_18.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina4 {
@@ -134,38 +125,32 @@ body#pagina4 {
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
-  height: 100vh;
 
 }
 body#pagina5 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_28.jpeg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
 
 }
 
 body#pagina6 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_33.jpeg");
+                    url("../img/foto_32.jpeg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: auto;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina7 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_38.jpeg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+                    url("../img/foto_23.jpg");
+  background-repeat: no-repeat; 
+  background-size: auto;       
   background-color: black;
-  height: 100vh;
 
 }
 
@@ -173,61 +158,53 @@ body#pagina8 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_40.jpg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina9 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_48.jpg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
 
 }
 
 body#pagina10 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_49.jpg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+                    url("../img/foto_53.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina11 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_54.jpg");
+                    url("../img/foto_58.jpeg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina12 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_63.jpeg");
-   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina13 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_63.jpeg");
-    background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
 
 }
 
@@ -235,20 +212,18 @@ body#pagina14 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_71.jpg");
   background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-size: cover;       
   background-color: black;
-  height: 100vh;
+
 }
 
 body#pagina15 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_71.jpg");
-    background-repeat: no-repeat; 
-  background-size:cover;  
-  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;       
   background-color: black;
-  height:100vhvh;
+
 }
 
 
@@ -266,7 +241,3 @@ body#pagina15 {
     opacity: 1;   /* totalmente visível */
   }
 }
-
-
-
-
