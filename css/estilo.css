@@ -104,7 +104,7 @@ body#pagina1 {
 
 body#pagina2 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_11.jpeg");
+                    url("../img/foto_10.jpg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -112,7 +112,7 @@ body#pagina2 {
 }
 body#pagina3 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_18.jpg");
+                    url("../img/foto_14.jpg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -129,7 +129,7 @@ body#pagina4 {
 }
 body#pagina5 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_28.jpeg");
+                    url("../img/foto_27.jpeg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -138,7 +138,7 @@ body#pagina5 {
 
 body#pagina6 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_32.jpeg");
+                    url("../img/foto_31.jpeg");
   background-repeat: no-repeat; 
   background-size: auto;       
   background-color: black;
@@ -174,7 +174,7 @@ body#pagina9 {
 
 body#pagina10 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_53.jpg");
+                    url("../img/foto_49.jpg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -201,7 +201,7 @@ body#pagina12 {
 
 body#pagina13 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_63.jpeg");
+                    url("../img/foto_65.jpeg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -210,7 +210,7 @@ body#pagina13 {
 
 body#pagina14 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_71.jpg");
+                    url("../img/foto_68.jpg");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -219,7 +219,7 @@ body#pagina14 {
 
 body#pagina15 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
-                    url("../img/foto_71.jpg");
+                    url("../img/foto_74.webp");
   background-repeat: no-repeat; 
   background-size: cover;       
   background-color: black;
@@ -241,4 +241,3 @@ body#pagina15 {
     opacity: 1;   /* totalmente visível */
   }
 }
-
