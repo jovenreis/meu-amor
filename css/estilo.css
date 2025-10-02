@@ -75,6 +75,14 @@ h1 {
     top: 300px;
 }
 
+h1#textoprincipal{
+  margin-bottom: 2cm;
+  margin-top: 3px;
+  width: 25cm;
+  height: 4cm;
+  text-align: center;
+}
+
 h2{
   text-align: justify;
   width: 400px;
