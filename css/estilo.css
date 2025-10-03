@@ -89,16 +89,26 @@ p {
 body#home {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_6.jpg");
-  background-repeat: no-repeat; 
-  background-size:auto;       
+  background-size : auto;       
   background-color: black;
 
   
 }
 a {
-  font-size: 1.2rem; 
   color: white;
+  font-size: 1.3rem;  
+  text-decoration: none;
 }
+td a {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  td a {
+    font-size: 2rem;   
+  }
+}
+
 
 body#pagina1 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
