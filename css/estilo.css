@@ -95,6 +95,7 @@ body#home {
 }
 a{
   color: white;
+  font-size: large;
 }
 body#pagina1 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
