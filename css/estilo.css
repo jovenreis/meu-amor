@@ -75,13 +75,6 @@ h1 {
     top: 300px;
 }
 
-h1#textoprincipal{
-  margin-bottom: 2cm;
-  margin-top: 3px;
-  width: 25cm;
-  height: 4cm;
-  text-align: center;
-}
 
 h2{
   text-align: justify;
@@ -224,8 +217,8 @@ body#pagina14 {
 body#pagina15 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_74.webp");
-  background-repeat: no-repeat; 
-  background-size: cover;       
+  background-repeat: repeat; 
+  background-size: auto;       
   background-color: black;
 
 }
