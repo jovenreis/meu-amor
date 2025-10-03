@@ -70,9 +70,11 @@ body {
   height: 4cm;
 }
 h1 {
-    color: #ffffff;
-    text-align: bottom;
-    top: 300px;
+  color: white;
+  font-size: 2rem; 
+  width: 90%;      
+  margin: 20px auto;
+  text-align: center;
 }
 
 
@@ -93,10 +95,11 @@ body#home {
 
   
 }
-a{
+a {
+  font-size: 1.2rem; 
   color: white;
-  font-size: large;
 }
+
 body#pagina1 {
   background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
                     url("../img/foto_13.jpeg"); 
